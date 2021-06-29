@@ -1,0 +1,10 @@
+-- TODO: Remove this file when the migration is complete
+
+packages: .
+
+-- TODO: Remove the below vendored packages when they have migrated to GHC 9.2
+
+source-repository-package
+  type: git
+  location: https://github.com/awjchen/regex-base
+  tag: 74ccd54f3d26934d3f41aae48b215e517c38a48f
